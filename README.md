@@ -1,7 +1,7 @@
 # Jeu du Snake 
 ## Projet développé en C89, 1ère annnée de BUT Informatique
 
-Ce dépôt GitHub contient le code source du jeu Snake écrit en C89, développé avec la bibliothèque graphique de l'IUT [Nom de votre IUT].
+Ce dépôt GitHub contient le code source du jeu Snake écrit en C89, développé avec la bibliothèque graphique de l'IUT.
 
 
 ## Fonctionnalités
