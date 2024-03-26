@@ -21,7 +21,7 @@ Ce dépôt GitHub contient le code source du jeu Snake écrit en C89, développ�
 1. Clonez ce dépôt sur votre machine locale :
 
    ```bash
-   git clone https://github.com/FabiEtoile/Snake.git
+   git clone https://github.com/FabioEtoile/Snake.git
 
 2. Accédez au répertoire du jeu :
 
